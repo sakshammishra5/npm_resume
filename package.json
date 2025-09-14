@@ -1,9 +1,9 @@
 {
   "name": "saksham-mishra7",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My professional resume as an npm package",
   "main": "index.js",
-   "bin": {
+  "bin": {
     "resume": "./index.js"
   },
   "scripts": {
