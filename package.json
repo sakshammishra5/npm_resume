@@ -1,0 +1,24 @@
+{
+  "name": "saksham-mishra7",
+  "version": "1.0.0",
+  "description": "My professional resume as an npm package",
+  "main": "index.js",
+   "bin": {
+    "resume": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \\\"No tests specified\\\" && exit 0"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "portfolio",
+    "career"
+  ],
+  "author": "saksham mishra saksham7dev@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2"
+  }
+}
